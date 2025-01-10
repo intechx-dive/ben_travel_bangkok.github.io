@@ -166,7 +166,7 @@
     <ul>
         <li><strong>おすすめの訪問時期:</strong> 11月から2月 (涼しくて乾燥した季節)。</li>
         <li><strong>交通手段:</strong> BTSスカイトレイン、MRT地下鉄、またはトゥクトゥクで移動。</li>
-        <li><strong>マナー:</strong> 寺院では靴を脱ぎ、適切な服装を心がけましょう。</li>
+
     </ul>
 </section>
 
